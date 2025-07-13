@@ -32,9 +32,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abolfazlmohseni&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abolfazlmohseni&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abolfazlmohseni&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abolfazlmohseni&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abolfazlmohseni&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abolfazlmohseni&theme=dark" />
 </p>
 
 ---
