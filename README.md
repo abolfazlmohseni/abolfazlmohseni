@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Abolfazl Mohseni</h1>
 
 <p align="center">
-  💻 Front-End Developer | Passionate about React & Tailwind | On a journey to become a top-tier developer
+  💻 Front-End Developer | On a journey to become a top-tier developer
 </p>
 
 ---
