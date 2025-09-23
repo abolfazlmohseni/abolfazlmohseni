@@ -45,7 +45,7 @@
   <a href="https://t.me/itmohseni"><img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram" /></a>
   <a href="https://instagram.com/itmohseni"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/abolfazl-mohseni-9bb471319"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://itabolfazlmohseni.ir"><img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" /></a>
+  <a href="https://abolfazlmohseni.ir"><img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" /></a>
 </p>
 
 ---
