@@ -6,7 +6,7 @@
 
 <p align="center">
   ⚡ React • Next.js • TypeScript — The new power trio<br/>
-  🎨 Tailwind CSS • Sass • WordPress
+  🎨 Tailwind CSS • Sass • WordPress • Elementor
 </p>
 
 ---
@@ -17,7 +17,8 @@
   Building modern web experiences with a focus on clean code & smooth UIs<br/>
   🚀 This year: <strong>Next.js + TypeScript</strong> became my daily drivers<br/>
   💡 Always exploring, always building — never settling<br/>
-  📍 Based in Iran — open to remote collabs
+  📍 Based in Iran — open to remote collabs<br/><br/>
+  <em>And somehow, I randomly ended up working with WordPress & Elementor too — totally unexpected! 😅</em>
 </p>
 
 ---
@@ -34,6 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" alt="Tailwind" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" alt="Sass" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50" alt="WordPress" />
+
 </p>
 
 ---
@@ -45,7 +47,8 @@
 </p>
 
 <p align="center">
-  🧩 Currently sharpening: Next.js App Router • TypeScript Advanced • Full-stack capabilities
+  🧩 Currently sharpening: Next.js App Router • TypeScript Advanced • Full-stack capabilities<br/>
+  <em>Also diving into WordPress & Elementor development — who would've thought?! 😄</em>
 </p>
 
 ---
